@@ -1,0 +1,15 @@
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\bin\Debug\net7.0\calculadora.exe
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\bin\Debug\net7.0\calculadora.deps.json
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\bin\Debug\net7.0\calculadora.runtimeconfig.json
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\bin\Debug\net7.0\calculadora.dll
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\bin\Debug\net7.0\calculadora.pdb
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.dll
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.pdb
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\calculadora.genruntimeconfig.cache
+C:\taller1\tp6\tl1_tp6_2023-sueldoM\calculadora\obj\Debug\net7.0\ref\calculadora.dll
