@@ -9,5 +9,5 @@ a=10;
 
 b=a;
 
-Console.WriteLine("Valor de a: ",+a);
-Console.WriteLine("Valor de b: ",+b);
+Console.WriteLine("Valor de a: {0}",+a);
+Console.WriteLine("Valor de b: {0}",+b);
